@@ -1,0 +1,47 @@
+a {
+  font-size: 40px;
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+}
+hr {
+  color: rgb(0, 0, 0);
+  height: 3px;
+  background-color: black;
+}
+
+
+body {
+  background-image: linear-gradient(to right,rgb(253, 252, 252), gray);
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+
+}
+
+
+li {
+  float: left;
+  width: 20%;
+
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 10px 10 px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+#bck {
+  background-color: black;
+  size: 5px;
+}
